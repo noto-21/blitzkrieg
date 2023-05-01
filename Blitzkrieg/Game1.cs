@@ -19,7 +19,7 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
 
-namespace FinalGameProject
+namespace Blitzkrieg
 {
     /// <summary>
     /// This is the main type for your game

@@ -11,7 +11,7 @@ using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
 
 
-namespace FinalGameProject
+namespace Blitzkrieg
 {
     class Obstacle : GameItem
     {

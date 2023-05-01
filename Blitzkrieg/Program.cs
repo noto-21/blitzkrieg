@@ -1,6 +1,6 @@
 using System;
 
-namespace FinalGameProject
+namespace Blitzkrieg
 {
 #if WINDOWS || XBOX
     static class Program
