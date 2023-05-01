@@ -1,0 +1,491 @@
+[$RootKey$\Packages\{4098508B-4144-45D3-9801-736DC39D8E8A}\CodeLanguages]
+[$RootKey$\Packages\{4098508B-4144-45D3-9801-736DC39D8E8A}\CodeLanguages\{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}]
+"Assembly"="Microsoft.Xna.GameStudio.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d"
+"Class"="Microsoft.Xna.GameStudio.CodeProject.CSharpLanguageAdapter"
+
+[$RootKey$\Projects\{6D335F3A-9D43-41B4-9D22-F6F17C4BE596}]
+@="EntryPointAdapter"
+"Package"="{4098508B-4144-45D3-9801-736DC39D8E8A}"
+"Language(VsTemplate)"="CSharp"
+
+[$RootKey$\Projects\{ACC99C20-0FB7-416F-B78C-373971FA6C9D}]
+@="UnsupportedVersionAdapter"
+"Package"="{4098508B-4144-45D3-9801-736DC39D8E8A}"
+"Language(VsTemplate)"="CSharp"
+
+[$RootKey$\Packages\{4098508B-4144-45D3-9801-736DC39D8E8A}\CodeLanguages]
+[$RootKey$\Packages\{4098508B-4144-45D3-9801-736DC39D8E8A}\CodeLanguages\{F184B08F-C81C-45F6-A57F-5ABD9991F28F}]
+"Assembly"="Microsoft.Xna.GameStudio.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d"
+"Class"="Microsoft.Xna.GameStudio.CodeProject.VisualBasicLanguageAdapter"
+
+[$RootKey$\Projects\{A41D24BA-B416-43A8-A6CF-BC925916EF94}\Filters]
+[$RootKey$\Projects\{A41D24BA-B416-43A8-A6CF-BC925916EF94}\Filters\Audio Files]
+@="#119"
+"SortPriority"=dword:00000514
+
+[$RootKey$\Projects\{A41D24BA-B416-43A8-A6CF-BC925916EF94}\Filters]
+[$RootKey$\Projects\{A41D24BA-B416-43A8-A6CF-BC925916EF94}\Filters\Common Files]
+@="#123"
+"SortPriority"=dword:00000064
+"CommonFindFilesFilter"=dword:00000001
+"NotAddExistingItemFilter"=dword:00000001
+"NotOpenFileFilter"=dword:00000001
+
+[$RootKey$\Projects\{A41D24BA-B416-43A8-A6CF-BC925916EF94}\Filters]
+[$RootKey$\Projects\{A41D24BA-B416-43A8-A6CF-BC925916EF94}\Filters\Data Files]
+@="#117"
+"SortPriority"=dword:0000044C
+
+[$RootKey$\Projects\{A41D24BA-B416-43A8-A6CF-BC925916EF94}\Filters]
+[$RootKey$\Projects\{A41D24BA-B416-43A8-A6CF-BC925916EF94}\Filters\Executable Files]
+@="#121"
+"SortPriority"=dword:000005DC
+
+[$RootKey$\Projects\{A41D24BA-B416-43A8-A6CF-BC925916EF94}\Filters]
+[$RootKey$\Projects\{A41D24BA-B416-43A8-A6CF-BC925916EF94}\Filters\Image Files]
+@="#118"
+"SortPriority"=dword:000004B0
+
+[$RootKey$\Projects\{A41D24BA-B416-43A8-A6CF-BC925916EF94}\Filters]
+[$RootKey$\Projects\{A41D24BA-B416-43A8-A6CF-BC925916EF94}\Filters\Script Files]
+@="#122"
+"SortPriority"=dword:00000640
+
+[$RootKey$\Projects\{A41D24BA-B416-43A8-A6CF-BC925916EF94}\Filters]
+[$RootKey$\Projects\{A41D24BA-B416-43A8-A6CF-BC925916EF94}\Filters\Video Files]
+@="#120"
+"SortPriority"=dword:00000578
+
+[$RootKey$\Projects\{A41D24BA-B416-43A8-A6CF-BC925916EF94}\Filters]
+[$RootKey$\Projects\{A41D24BA-B416-43A8-A6CF-BC925916EF94}\Filters\Visual C# Files]
+@="#116"
+"SortPriority"=dword:000003E8
+
+[$RootKey$\Packages\{4098508B-4144-45D3-9801-736DC39D8E8A}\CodeProjects]
+[$RootKey$\Packages\{4098508B-4144-45D3-9801-736DC39D8E8A}\CodeProjects\{A41D24BA-B416-43A8-A6CF-BC925916EF94}]
+"Assembly"="Microsoft.Xna.GameStudio.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d"
+"Class"="Microsoft.Xna.GameStudio.CodeProject.WindowsPhonePlatformAdapter"
+
+[$RootKey$\Projects\{A41D24BA-B416-43A8-A6CF-BC925916EF94}]
+@="WindowsPhonePlatformAdapter"
+"Package"="{4098508B-4144-45D3-9801-736DC39D8E8A}"
+"Language(VsTemplate)"="CSharp"
+"ShowOnlySpecifiedTemplates(VsTemplate)"=dword:00000001
+"TemplateGroupIDs(VsTemplate)"="XnaFramework-v4.0,XnaFramework-v4.0-WindowsPhone,XnaFramework-v4.0-Devices"
+"TemplateIDs(VsTemplate)"="Microsoft.CSharp.CodeFile,Microsoft.CSharp.Resource,Microsoft.CSharp.TextFile,Microsoft.CSharp.XmlFile,Microsoft.CSharp.ClassDiagram,Microsoft.CSharp.XMLSchema"
+
+[$RootKey$\Projects\{216C9C19-3A48-477E-A534-F7AD3A38D977}\Filters]
+[$RootKey$\Projects\{216C9C19-3A48-477E-A534-F7AD3A38D977}\Filters\Audio Files]
+@="#119"
+"SortPriority"=dword:00000514
+
+[$RootKey$\Projects\{216C9C19-3A48-477E-A534-F7AD3A38D977}\Filters]
+[$RootKey$\Projects\{216C9C19-3A48-477E-A534-F7AD3A38D977}\Filters\Common Files]
+@="#123"
+"SortPriority"=dword:00000064
+"CommonFindFilesFilter"=dword:00000001
+"NotAddExistingItemFilter"=dword:00000001
+"NotOpenFileFilter"=dword:00000001
+
+[$RootKey$\Projects\{216C9C19-3A48-477E-A534-F7AD3A38D977}\Filters]
+[$RootKey$\Projects\{216C9C19-3A48-477E-A534-F7AD3A38D977}\Filters\Data Files]
+@="#117"
+"SortPriority"=dword:0000044C
+
+[$RootKey$\Projects\{216C9C19-3A48-477E-A534-F7AD3A38D977}\Filters]
+[$RootKey$\Projects\{216C9C19-3A48-477E-A534-F7AD3A38D977}\Filters\Executable Files]
+@="#121"
+"SortPriority"=dword:000005DC
+
+[$RootKey$\Projects\{216C9C19-3A48-477E-A534-F7AD3A38D977}\Filters]
+[$RootKey$\Projects\{216C9C19-3A48-477E-A534-F7AD3A38D977}\Filters\Image Files]
+@="#118"
+"SortPriority"=dword:000004B0
+
+[$RootKey$\Projects\{216C9C19-3A48-477E-A534-F7AD3A38D977}\Filters]
+[$RootKey$\Projects\{216C9C19-3A48-477E-A534-F7AD3A38D977}\Filters\Script Files]
+@="#122"
+"SortPriority"=dword:00000640
+
+[$RootKey$\Projects\{216C9C19-3A48-477E-A534-F7AD3A38D977}\Filters]
+[$RootKey$\Projects\{216C9C19-3A48-477E-A534-F7AD3A38D977}\Filters\Video Files]
+@="#120"
+"SortPriority"=dword:00000578
+
+[$RootKey$\Projects\{216C9C19-3A48-477E-A534-F7AD3A38D977}\Filters]
+[$RootKey$\Projects\{216C9C19-3A48-477E-A534-F7AD3A38D977}\Filters\VB Code Files]
+@="#135"
+"SortPriority"=dword:000003E8
+
+[$RootKey$\Projects\{216C9C19-3A48-477E-A534-F7AD3A38D977}]
+@="WindowsPhoneVisualBasicTemplatesRegistration"
+"Package"="{4098508B-4144-45D3-9801-736DC39D8E8A}"
+"Language(VsTemplate)"="VisualBasic"
+"ShowOnlySpecifiedTemplates(VsTemplate)"=dword:00000001
+"TemplateGroupIDs(VsTemplate)"="XnaFramework-v4.0,XnaFramework-v4.0-WindowsPhone,XnaFramework-v4.0-Devices"
+"TemplateIDs(VsTemplate)"="Microsoft.VisualBasic.Code.CodeFile,Microsoft.VisualBasic.General.Resource,Microsoft.VisualBasic.General.Text,Microsoft.VisualBasic.Data.XmlFile,Microsoft.VisualBasic.General.ClassDiagram,Microsoft.VisualBasic.Data.XMLSchema"
+
+[$RootKey$\Projects\{17B8375C-1E54-49AD-8D94-471ECEE9AC00}\Filters]
+[$RootKey$\Projects\{17B8375C-1E54-49AD-8D94-471ECEE9AC00}\Filters\Audio Files]
+@="#119"
+"SortPriority"=dword:00000514
+
+[$RootKey$\Projects\{17B8375C-1E54-49AD-8D94-471ECEE9AC00}\Filters]
+[$RootKey$\Projects\{17B8375C-1E54-49AD-8D94-471ECEE9AC00}\Filters\Common Files]
+@="#123"
+"SortPriority"=dword:00000064
+"CommonFindFilesFilter"=dword:00000001
+"NotAddExistingItemFilter"=dword:00000001
+"NotOpenFileFilter"=dword:00000001
+
+[$RootKey$\Projects\{17B8375C-1E54-49AD-8D94-471ECEE9AC00}\Filters]
+[$RootKey$\Projects\{17B8375C-1E54-49AD-8D94-471ECEE9AC00}\Filters\Data Files]
+@="#117"
+"SortPriority"=dword:0000044C
+
+[$RootKey$\Projects\{17B8375C-1E54-49AD-8D94-471ECEE9AC00}\Filters]
+[$RootKey$\Projects\{17B8375C-1E54-49AD-8D94-471ECEE9AC00}\Filters\Executable Files]
+@="#121"
+"SortPriority"=dword:000005DC
+
+[$RootKey$\Projects\{17B8375C-1E54-49AD-8D94-471ECEE9AC00}\Filters]
+[$RootKey$\Projects\{17B8375C-1E54-49AD-8D94-471ECEE9AC00}\Filters\Image Files]
+@="#118"
+"SortPriority"=dword:000004B0
+
+[$RootKey$\Projects\{17B8375C-1E54-49AD-8D94-471ECEE9AC00}\Filters]
+[$RootKey$\Projects\{17B8375C-1E54-49AD-8D94-471ECEE9AC00}\Filters\Script Files]
+@="#122"
+"SortPriority"=dword:00000640
+
+[$RootKey$\Projects\{17B8375C-1E54-49AD-8D94-471ECEE9AC00}\Filters]
+[$RootKey$\Projects\{17B8375C-1E54-49AD-8D94-471ECEE9AC00}\Filters\Video Files]
+@="#120"
+"SortPriority"=dword:00000578
+
+[$RootKey$\Projects\{17B8375C-1E54-49AD-8D94-471ECEE9AC00}\Filters]
+[$RootKey$\Projects\{17B8375C-1E54-49AD-8D94-471ECEE9AC00}\Filters\Visual C# Files]
+@="#116"
+"SortPriority"=dword:000003E8
+
+[$RootKey$\Packages\{4098508B-4144-45D3-9801-736DC39D8E8A}\CodeProjects]
+[$RootKey$\Packages\{4098508B-4144-45D3-9801-736DC39D8E8A}\CodeProjects\{17B8375C-1E54-49AD-8D94-471ECEE9AC00}]
+"Assembly"="Microsoft.Xna.GameStudio.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d"
+"Class"="Microsoft.Xna.GameStudio.CodeProject.WindowsPlatformAdapter"
+
+[$RootKey$\Projects\{17B8375C-1E54-49AD-8D94-471ECEE9AC00}]
+@="WindowsPlatformAdapter"
+"Package"="{4098508B-4144-45D3-9801-736DC39D8E8A}"
+"Language(VsTemplate)"="CSharp"
+"TemplateGroupIDs(VsTemplate)"="XnaFramework-v4.0,XnaFramework-v4.0-Windows"
+
+[$RootKey$\Projects\{8BFDED2E-89E3-40B9-8367-78272ED1A551}\Filters]
+[$RootKey$\Projects\{8BFDED2E-89E3-40B9-8367-78272ED1A551}\Filters\Audio Files]
+@="#119"
+"SortPriority"=dword:00000514
+
+[$RootKey$\Projects\{8BFDED2E-89E3-40B9-8367-78272ED1A551}\Filters]
+[$RootKey$\Projects\{8BFDED2E-89E3-40B9-8367-78272ED1A551}\Filters\Common Files]
+@="#123"
+"SortPriority"=dword:00000064
+"CommonFindFilesFilter"=dword:00000001
+"NotAddExistingItemFilter"=dword:00000001
+"NotOpenFileFilter"=dword:00000001
+
+[$RootKey$\Projects\{8BFDED2E-89E3-40B9-8367-78272ED1A551}\Filters]
+[$RootKey$\Projects\{8BFDED2E-89E3-40B9-8367-78272ED1A551}\Filters\Data Files]
+@="#117"
+"SortPriority"=dword:0000044C
+
+[$RootKey$\Projects\{8BFDED2E-89E3-40B9-8367-78272ED1A551}\Filters]
+[$RootKey$\Projects\{8BFDED2E-89E3-40B9-8367-78272ED1A551}\Filters\Executable Files]
+@="#121"
+"SortPriority"=dword:000005DC
+
+[$RootKey$\Projects\{8BFDED2E-89E3-40B9-8367-78272ED1A551}\Filters]
+[$RootKey$\Projects\{8BFDED2E-89E3-40B9-8367-78272ED1A551}\Filters\Image Files]
+@="#118"
+"SortPriority"=dword:000004B0
+
+[$RootKey$\Projects\{8BFDED2E-89E3-40B9-8367-78272ED1A551}\Filters]
+[$RootKey$\Projects\{8BFDED2E-89E3-40B9-8367-78272ED1A551}\Filters\Script Files]
+@="#122"
+"SortPriority"=dword:00000640
+
+[$RootKey$\Projects\{8BFDED2E-89E3-40B9-8367-78272ED1A551}\Filters]
+[$RootKey$\Projects\{8BFDED2E-89E3-40B9-8367-78272ED1A551}\Filters\Video Files]
+@="#120"
+"SortPriority"=dword:00000578
+
+[$RootKey$\Projects\{8BFDED2E-89E3-40B9-8367-78272ED1A551}\Filters]
+[$RootKey$\Projects\{8BFDED2E-89E3-40B9-8367-78272ED1A551}\Filters\VB Code Files]
+@="#135"
+"SortPriority"=dword:000003E8
+
+[$RootKey$\Projects\{8BFDED2E-89E3-40B9-8367-78272ED1A551}]
+@="WindowsVisualBasicTemplatesRegistration"
+"Package"="{4098508B-4144-45D3-9801-736DC39D8E8A}"
+"Language(VsTemplate)"="VisualBasic"
+"TemplateGroupIDs(VsTemplate)"="XnaFramework-v4.0,XnaFramework-v4.0-Windows"
+
+[$RootKey$\Projects\{14C1F6C6-984C-4AEE-BFA4-3226C06AAFF9}\Filters]
+[$RootKey$\Projects\{14C1F6C6-984C-4AEE-BFA4-3226C06AAFF9}\Filters\Audio Files]
+@="#119"
+"SortPriority"=dword:00000514
+
+[$RootKey$\Projects\{14C1F6C6-984C-4AEE-BFA4-3226C06AAFF9}\Filters]
+[$RootKey$\Projects\{14C1F6C6-984C-4AEE-BFA4-3226C06AAFF9}\Filters\Common Files]
+@="#123"
+"SortPriority"=dword:00000064
+"CommonFindFilesFilter"=dword:00000001
+"NotAddExistingItemFilter"=dword:00000001
+"NotOpenFileFilter"=dword:00000001
+
+[$RootKey$\Projects\{14C1F6C6-984C-4AEE-BFA4-3226C06AAFF9}\Filters]
+[$RootKey$\Projects\{14C1F6C6-984C-4AEE-BFA4-3226C06AAFF9}\Filters\Data Files]
+@="#117"
+"SortPriority"=dword:0000044C
+
+[$RootKey$\Projects\{14C1F6C6-984C-4AEE-BFA4-3226C06AAFF9}\Filters]
+[$RootKey$\Projects\{14C1F6C6-984C-4AEE-BFA4-3226C06AAFF9}\Filters\Executable Files]
+@="#121"
+"SortPriority"=dword:000005DC
+
+[$RootKey$\Projects\{14C1F6C6-984C-4AEE-BFA4-3226C06AAFF9}\Filters]
+[$RootKey$\Projects\{14C1F6C6-984C-4AEE-BFA4-3226C06AAFF9}\Filters\Image Files]
+@="#118"
+"SortPriority"=dword:000004B0
+
+[$RootKey$\Projects\{14C1F6C6-984C-4AEE-BFA4-3226C06AAFF9}\Filters]
+[$RootKey$\Projects\{14C1F6C6-984C-4AEE-BFA4-3226C06AAFF9}\Filters\Script Files]
+@="#122"
+"SortPriority"=dword:00000640
+
+[$RootKey$\Projects\{14C1F6C6-984C-4AEE-BFA4-3226C06AAFF9}\Filters]
+[$RootKey$\Projects\{14C1F6C6-984C-4AEE-BFA4-3226C06AAFF9}\Filters\Video Files]
+@="#120"
+"SortPriority"=dword:00000578
+
+[$RootKey$\Projects\{14C1F6C6-984C-4AEE-BFA4-3226C06AAFF9}\Filters]
+[$RootKey$\Projects\{14C1F6C6-984C-4AEE-BFA4-3226C06AAFF9}\Filters\Visual C# Files]
+@="#116"
+"SortPriority"=dword:000003E8
+
+[$RootKey$\Packages\{4098508B-4144-45D3-9801-736DC39D8E8A}\CodeProjects]
+[$RootKey$\Packages\{4098508B-4144-45D3-9801-736DC39D8E8A}\CodeProjects\{14C1F6C6-984C-4AEE-BFA4-3226C06AAFF9}]
+"Assembly"="Microsoft.Xna.GameStudio.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d"
+"Class"="Microsoft.Xna.GameStudio.CodeProject.Xbox360PlatformAdapter"
+
+[$RootKey$\Projects\{14C1F6C6-984C-4AEE-BFA4-3226C06AAFF9}]
+@="Xbox360PlatformAdapter"
+"Package"="{4098508B-4144-45D3-9801-736DC39D8E8A}"
+"Language(VsTemplate)"="CSharp"
+"ShowOnlySpecifiedTemplates(VsTemplate)"=dword:00000001
+"TemplateGroupIDs(VsTemplate)"="XnaFramework-v4.0,XnaFramework-v4.0-Xbox360,XnaFramework-v4.0-Devices"
+"TemplateIDs(VsTemplate)"="Microsoft.CSharp.CodeFile,Microsoft.CSharp.Resource,Microsoft.CSharp.TextFile,Microsoft.CSharp.XmlFile,Microsoft.CSharp.ClassDiagram,Microsoft.CSharp.XMLSchema"
+
+[$RootKey$\Projects\{2DF5C3F4-5A5F-47A9-8E94-23B4456F55E2}\Filters]
+[$RootKey$\Projects\{2DF5C3F4-5A5F-47A9-8E94-23B4456F55E2}\Filters\Audio Files]
+@="#119"
+"SortPriority"=dword:00000514
+
+[$RootKey$\Projects\{2DF5C3F4-5A5F-47A9-8E94-23B4456F55E2}\Filters]
+[$RootKey$\Projects\{2DF5C3F4-5A5F-47A9-8E94-23B4456F55E2}\Filters\Common Files]
+@="#123"
+"SortPriority"=dword:00000064
+"CommonFindFilesFilter"=dword:00000001
+"NotAddExistingItemFilter"=dword:00000001
+"NotOpenFileFilter"=dword:00000001
+
+[$RootKey$\Projects\{2DF5C3F4-5A5F-47A9-8E94-23B4456F55E2}\Filters]
+[$RootKey$\Projects\{2DF5C3F4-5A5F-47A9-8E94-23B4456F55E2}\Filters\Data Files]
+@="#117"
+"SortPriority"=dword:0000044C
+
+[$RootKey$\Projects\{2DF5C3F4-5A5F-47A9-8E94-23B4456F55E2}\Filters]
+[$RootKey$\Projects\{2DF5C3F4-5A5F-47A9-8E94-23B4456F55E2}\Filters\Executable Files]
+@="#121"
+"SortPriority"=dword:000005DC
+
+[$RootKey$\Projects\{2DF5C3F4-5A5F-47A9-8E94-23B4456F55E2}\Filters]
+[$RootKey$\Projects\{2DF5C3F4-5A5F-47A9-8E94-23B4456F55E2}\Filters\Image Files]
+@="#118"
+"SortPriority"=dword:000004B0
+
+[$RootKey$\Projects\{2DF5C3F4-5A5F-47A9-8E94-23B4456F55E2}\Filters]
+[$RootKey$\Projects\{2DF5C3F4-5A5F-47A9-8E94-23B4456F55E2}\Filters\Script Files]
+@="#122"
+"SortPriority"=dword:00000640
+
+[$RootKey$\Projects\{2DF5C3F4-5A5F-47A9-8E94-23B4456F55E2}\Filters]
+[$RootKey$\Projects\{2DF5C3F4-5A5F-47A9-8E94-23B4456F55E2}\Filters\Video Files]
+@="#120"
+"SortPriority"=dword:00000578
+
+[$RootKey$\Projects\{2DF5C3F4-5A5F-47A9-8E94-23B4456F55E2}\Filters]
+[$RootKey$\Projects\{2DF5C3F4-5A5F-47A9-8E94-23B4456F55E2}\Filters\Visual C# Files]
+@="#116"
+"SortPriority"=dword:000003E8
+
+[$RootKey$\Projects\{2DF5C3F4-5A5F-47A9-8E94-23B4456F55E2}]
+@="Xbox360PlatformLegacyAdapter"
+"Package"="{4098508B-4144-45D3-9801-736DC39D8E8A}"
+"Language(VsTemplate)"="CSharp"
+
+[$RootKey$\Projects\{96E1EF13-E30E-467B-B776-C8F09A08A0A9}\Filters]
+[$RootKey$\Projects\{96E1EF13-E30E-467B-B776-C8F09A08A0A9}\Filters\Audio Files]
+@="#119"
+"SortPriority"=dword:00000514
+
+[$RootKey$\Projects\{96E1EF13-E30E-467B-B776-C8F09A08A0A9}\Filters]
+[$RootKey$\Projects\{96E1EF13-E30E-467B-B776-C8F09A08A0A9}\Filters\Common Files]
+@="#123"
+"SortPriority"=dword:00000064
+"CommonFindFilesFilter"=dword:00000001
+"NotAddExistingItemFilter"=dword:00000001
+"NotOpenFileFilter"=dword:00000001
+
+[$RootKey$\Projects\{96E1EF13-E30E-467B-B776-C8F09A08A0A9}\Filters]
+[$RootKey$\Projects\{96E1EF13-E30E-467B-B776-C8F09A08A0A9}\Filters\Data Files]
+@="#117"
+"SortPriority"=dword:0000044C
+
+[$RootKey$\Projects\{96E1EF13-E30E-467B-B776-C8F09A08A0A9}\Filters]
+[$RootKey$\Projects\{96E1EF13-E30E-467B-B776-C8F09A08A0A9}\Filters\Executable Files]
+@="#121"
+"SortPriority"=dword:000005DC
+
+[$RootKey$\Projects\{96E1EF13-E30E-467B-B776-C8F09A08A0A9}\Filters]
+[$RootKey$\Projects\{96E1EF13-E30E-467B-B776-C8F09A08A0A9}\Filters\Image Files]
+@="#118"
+"SortPriority"=dword:000004B0
+
+[$RootKey$\Projects\{96E1EF13-E30E-467B-B776-C8F09A08A0A9}\Filters]
+[$RootKey$\Projects\{96E1EF13-E30E-467B-B776-C8F09A08A0A9}\Filters\Script Files]
+@="#122"
+"SortPriority"=dword:00000640
+
+[$RootKey$\Projects\{96E1EF13-E30E-467B-B776-C8F09A08A0A9}\Filters]
+[$RootKey$\Projects\{96E1EF13-E30E-467B-B776-C8F09A08A0A9}\Filters\Video Files]
+@="#120"
+"SortPriority"=dword:00000578
+
+[$RootKey$\Projects\{96E1EF13-E30E-467B-B776-C8F09A08A0A9}\Filters]
+[$RootKey$\Projects\{96E1EF13-E30E-467B-B776-C8F09A08A0A9}\Filters\VB Code Files]
+@="#135"
+"SortPriority"=dword:000003E8
+
+[$RootKey$\Projects\{96E1EF13-E30E-467B-B776-C8F09A08A0A9}]
+@="XboxVisualBasicTemplatesRegistration"
+"Package"="{4098508B-4144-45D3-9801-736DC39D8E8A}"
+"Language(VsTemplate)"="VisualBasic"
+"ShowOnlySpecifiedTemplates(VsTemplate)"=dword:00000001
+"TemplateGroupIDs(VsTemplate)"="XnaFramework-v4.0,XnaFramework-v4.0-Xbox360,XnaFramework-v4.0-Devices"
+"TemplateIDs(VsTemplate)"="Microsoft.VisualBasic.Code.CodeFile,Microsot.VisualBasic.General.Resource,Microsoft.VisualBasic.General.Text,Microsoft.VisualBasic.Data.XmlFile,Microsoft.VisualBasic.General.ClassDiagram,Microsoft.VisualBasic.Data.XMLSchema"
+
+[$RootKey$\Projects\{6D335F3A-9D43-41B4-9D22-F6F17C4BE596}]
+@="EntryPointAdapter"
+"Package"="{4098508B-4144-45D3-9801-736DC39D8E8A}"
+"Language(VsTemplate)"="CSharp"
+
+[$RootKey$\Projects\{D399B71A-8929-442A-A9AC-8BEC78BB2433}]
+@="ZunePlatformLegacyAdapter"
+"Package"="{4098508B-4144-45D3-9801-736DC39D8E8A}"
+"Language(VsTemplate)"="CSharp"
+
+[$RootKey$\Projects\{96E2B04D-8817-42C6-938A-82C39BA4D311}\Filters]
+[$RootKey$\Projects\{96E2B04D-8817-42C6-938A-82C39BA4D311}\Filters\Audio Files]
+@="#300"
+"SortPriority"=dword:0000044C
+
+[$RootKey$\Projects\{96E2B04D-8817-42C6-938A-82C39BA4D311}\Filters]
+[$RootKey$\Projects\{96E2B04D-8817-42C6-938A-82C39BA4D311}\Filters\Effect Files]
+@="#303"
+"SortPriority"=dword:00000578
+
+[$RootKey$\Projects\{96E2B04D-8817-42C6-938A-82C39BA4D311}\Filters]
+[$RootKey$\Projects\{96E2B04D-8817-42C6-938A-82C39BA4D311}\Filters\Font Files]
+@="#304"
+"SortPriority"=dword:000005DC
+
+[$RootKey$\Projects\{96E2B04D-8817-42C6-938A-82C39BA4D311}\Filters]
+[$RootKey$\Projects\{96E2B04D-8817-42C6-938A-82C39BA4D311}\Filters\Model Files]
+@="#302"
+"SortPriority"=dword:00000514
+
+[$RootKey$\Projects\{96E2B04D-8817-42C6-938A-82C39BA4D311}\Filters]
+[$RootKey$\Projects\{96E2B04D-8817-42C6-938A-82C39BA4D311}\Filters\Texture Files]
+@="#301"
+"SortPriority"=dword:000004B0
+
+[$RootKey$\Projects\{96E2B04D-8817-42C6-938A-82C39BA4D311}\Filters]
+[$RootKey$\Projects\{96E2B04D-8817-42C6-938A-82C39BA4D311}\Filters\Video Files]
+@="#309"
+"SortPriority"=dword:000006A4
+
+[$RootKey$\Projects\{96E2B04D-8817-42C6-938A-82C39BA4D311}\Filters]
+[$RootKey$\Projects\{96E2B04D-8817-42C6-938A-82C39BA4D311}\Filters\XML Files]
+@="#305"
+"SortPriority"=dword:00000640
+
+[$RootKey$\Projects\{96E2B04D-8817-42C6-938A-82C39BA4D311}\Filters]
+[$RootKey$\Projects\{96E2B04D-8817-42C6-938A-82C39BA4D311}\Filters\XNA Content Files]
+@="#306"
+"SortPriority"=dword:00000064
+
+[$RootKey$\Projects\{96E2B04D-8817-42C6-938A-82C39BA4D311}]
+@="ContentProjectFactory"
+"DisplayProjectFileExtensions"="#200"
+"Package"="{4098508B-4144-45D3-9801-736DC39D8E8A}"
+"DefaultProjectExtension"="contentproj"
+"PossibleProjectExtensions"="contentproj"
+"Language(VsTemplate)"="CSharp"
+"ShowOnlySpecifiedTemplates(VsTemplate)"=dword:00000001
+"TemplateGroupIDs(VsTemplate)"="XnaFramework-v4.0-Content"
+"TemplateIDs(VsTemplate)"="Microsoft.CSharp.Bitmap"
+
+[$RootKey$\InstalledProducts\XnaPackage]
+"Package"="{4098508b-4144-45d3-9801-736dc39d8e8a}"
+"UseInterface"=dword:00000001
+
+[$RootKey$\Packages\{4098508b-4144-45d3-9801-736dc39d8e8a}]
+@="Microsoft.Xna.GameStudio.XnaPackage, Microsoft.Xna.GameStudio.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d"
+"InprocServer32"="$System$\mscoree.dll"
+"Class"="Microsoft.Xna.GameStudio.XnaPackage"
+"CodeBase"="$PackageFolder$\Microsoft.Xna.GameStudio.Core.dll"
+
+[$RootKey$\AutoLoadPackages\{ef4f870b-7b85-4f29-9d15-ce1abfbe733b}]
+"{4098508b-4144-45d3-9801-736dc39d8e8a}"=dword:00000000
+
+[$RootKey$\CLSID\{d7f828fc-6cdf-4f04-8a48-7dde7481ea16}]
+@="Microsoft.Xna.GameStudio.CodeProject.ContentCompressionPropertyPage"
+"InprocServer32"="$System$\mscoree.dll"
+"Class"="Microsoft.Xna.GameStudio.CodeProject.ContentCompressionPropertyPage"
+"CodeBase"="$PackageFolder$\Microsoft.Xna.GameStudio.Core.dll"
+"ThreadingModel"="Both"
+
+[$RootKey$\CLSID\{2121371d-97bc-4138-a641-69fea2764d27}]
+@="Microsoft.Xna.GameStudio.CodeProject.Debugging.XnaPortSupplier"
+"InprocServer32"="$System$\mscoree.dll"
+"Class"="Microsoft.Xna.GameStudio.CodeProject.Debugging.XnaPortSupplier"
+"CodeBase"="$PackageFolder$\Microsoft.Xna.GameStudio.Core.dll"
+"ThreadingModel"="Both"
+
+[$RootKey$\CLSID\{0cc9ef4b-1729-49fe-a2d3-791f60a45e0c}]
+@="Microsoft.Xna.GameStudio.CodeProject.XnaGameStudioPropPage"
+"InprocServer32"="$System$\mscoree.dll"
+"Class"="Microsoft.Xna.GameStudio.CodeProject.XnaGameStudioPropPage"
+"CodeBase"="$PackageFolder$\Microsoft.Xna.GameStudio.Core.dll"
+"ThreadingModel"="Both"
+
+[$RootKey$\CLSID\{b03e533c-4746-4046-8610-d84c3f0bc68f}]
+@="Microsoft.Xna.GameStudio.ContentProject.ContentBuildPropertyPage"
+"InprocServer32"="$System$\mscoree.dll"
+"Class"="Microsoft.Xna.GameStudio.ContentProject.ContentBuildPropertyPage"
+"CodeBase"="$PackageFolder$\Microsoft.Xna.GameStudio.Core.dll"
+"ThreadingModel"="Both"
+
+[$RootKey$\Menus]
+"{4098508b-4144-45d3-9801-736dc39d8e8a}"=", XnaPackage.ctmenu, 1"
+
+

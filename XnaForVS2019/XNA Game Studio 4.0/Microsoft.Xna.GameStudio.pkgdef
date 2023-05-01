@@ -1,0 +1,47 @@
+[$RootKey$\BindingPaths\<New Guid>]
+"$PackageFolder$"=""
+
+[$RootKey$\AD7Metrics\Engine\{A7D86ADA-3833-4259-B9CC-2E991EAB3F75}]
+@="guidManagedXbox360Engine"
+"Attach"=dword:00000001
+"AutoSelectPriority"=dword:0000000f
+"CallStackBP"=dword:00000001
+"CLSID"="{7386310B-D5CB-4369-9BDD-609B3F103914}"
+"ConditionalBP"=dword:00000000
+"DataBP"=dword:00000000
+"Disassembly"=dword:00000000
+"DumpWriting"=dword:00000000
+"Embedded"=dword:00000001
+"ENC"=dword:00000000
+"Exceptions"=dword:00000001
+"FunctionBP"=dword:00000001
+"HitCountBP"=dword:00000001
+"InterceptCurrentException"=dword:00000000
+"Interop"=dword:00000000
+"JITDebug"=dword:00000000
+"JustMyCodeStepping"=dword:00000000
+"NativeInteropOK"=dword:00000000
+"Registers"=dword:00000000
+"Runtime"="{14448826-4917-4EB1-A91E-3F6E8FFFD845}"
+"SetNextStatement"=dword:00000001
+"SqlClr"=dword:00000000
+"SuspendThread"=dword:00000001
+"UseShimAPI"=dword:00000000
+
+[$RootKey$\AD7Metrics\Engine\{A7D86ADA-3833-4259-B9CC-2E991EAB3F75}\PortSupplier]
+"0"="{2121371D-97BC-4138-A641-69FEA2764D27}"
+
+[$RootKey$\AD7Metrics\PortSupplier\{2121371D-97BC-4138-A641-69FEA2764D27}]
+"CLSID"="{2121371D-97BC-4138-A641-69FEA2764D27}"
+"DisallowUserEnteredPorts"=dword:00000000
+"Name"="XNA Framework"
+
+[$RootKey$\Help\VisibleFilters]
+"XnaGSEFilter"=dword:00000001
+
+[$RootKey$\CLSID\{139A4080-1B81-40f5-979E-E903DFB4F22F}]
+@="XNA Game Studio ProjectAggregator2"
+
+[$RootKey$\CLSID\{139A4080-1B81-40f5-979E-E903DFB4F22F}\InprocServer32]
+@="$PackageFolder$\ProjectAggregator2.dll"
+"ThreadingModel"="Apartment"
