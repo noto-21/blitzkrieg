@@ -1,6 +1,5 @@
-//Zachary Lowrie :), Noah Toma, Owen Woolley
+//ZL :), NT, OW
 //November 10th, 2020
-//ICS 4U
 
 ///0000   0    000  00000  00000  0  0  000   000  0000   000
 ///0   0  0     0     0       0   0 0   0  0   0   0     0
